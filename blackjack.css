@@ -1,0 +1,23 @@
+h1{
+    color:rgb(173, 222, 103);
+}
+body{
+    background-image: url('https://github.com/scrimba/learn-javascript/blob/main/3.%20Build%20a%20Blackjack%20game/12.%20Add%20basic%20styling/images/table.png?raw=true');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+#message-el {
+    font-style: italic;
+}
+#btn{
+    color: #016f32;
+    padding: 10px 10px 10px 10px;
+    border-radius: 7px;
+    font-weight: bold;
+    border-color: goldenrod;
+    background-color: goldenrod;
+}
